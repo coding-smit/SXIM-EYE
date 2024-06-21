@@ -55,28 +55,27 @@ SXIM EYE
 * `pkg install python`
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/coding-smit/D-DOS-SXIM-EYE-.git`
+* `git clone https://github.com/coding-smit/SXIM-EYE.git`
 * `ls`
-* `cd `
-* `pip2 install -r requirements.txt`
-* `chmod +x DaddyBomber.sh`
-* `./DaddyBomber.sh Or bash DaddyBomber.sh`
+* `cd SXIM-EYE `
+* `chmod +x sxim-eye.sh`
+* `./sxim-eye.sh Or bash sxim-eye.sh`
 
 ## INSTALLATION [Kali Linux] :
 
 * `sudo apt install python`
 * `sudo apt install python2`
 * `sudo apt install git`
-* `git clone https://github.com/coding-smit/DaddyBomber`
+* `git clone https://github.com/coding-smit/SXIM-EYE.git`
 * `ls`
 * `Now in root permission do`
-* `cd DaddyBomber`
+* `cd SXIM-EYE`
 * `pip install -r requirements.txt`
-* `chmod +x DaddyBomber`
+* `chmod +x sxim-eye.sh`
 
 * `now open a new terminal again and without giving root permission`
-* `cd DaddyBomber`
-* `./DaddyBomber.sh Or bash DaddyBomber.sh`
+* `cd sxim-eye.sh`
+* `./sxim-eye.sh Or bash sxim-eye.sh`
 
 ## INSTALLATION macOS:
 
@@ -84,10 +83,10 @@ SXIM EYE
 * `brew install python3`
 * `sudo easy_install pip`
 * `sudo pip install --upgrade pip`
-* `git clone https://github.com/coding-smit/DaddyBomber`
-* `cd DaddyBomber`
-* `chmod +x DaddyBomber`
-* `bash DaddyBomber.sh`
+* `git clone https://github.com/coding-smit/SXIM-EYE.git`
+* `cd SXIM-EYE`
+* `chmod +x sxim-eye.sh`
+* `bash sxim-eye.sh`
 
 
 ## Warning:
