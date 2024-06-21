@@ -52,7 +52,7 @@ echo
 # Check password
 correct_password="sxim@9328"  # Replace 'yourpassword' with the actual password
 if [ "$password" != "$correct_password" ]; then
-    echo "Incorrect password. Exiting."
+    echo "Incorrect password. Exiting.CONTACT TO INSTAGRAM FOR PASSWORD"
     exit 1
 fi
 
