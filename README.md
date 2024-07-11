@@ -48,6 +48,10 @@ SXIM EYE
 - Termux
 - VIVO V20 PRO
 
+## REQUIREMENT (PASSWORD) :
+- FOR PASSWORD CONTACT INSTAGRAM : https://www.instagram.com/coding.smit?igsh=MzRlODBiNWFlZA==
+
+- 
 ## INSTALLATION [Termux] :
 
 * `apt update`
